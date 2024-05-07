@@ -59,21 +59,27 @@ accuracy
 
 ## Output:
 Result Output
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/887b0d7f-0083-48d4-89ad-d3e8b413aad3)
 
 data.head()
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/6fd06372-cb47-4e6f-8ab1-8aa7fb447b58)
 
 data.info()
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/671c942a-ced7-4c91-a4e0-81e3c3893822)
 
 data.isnull().sum()
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/4741dfff-dcf7-43e2-af2e-9c32937c2444)
 
 Y_prediction Value
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/5a9748ec-df64-4d8a-9f54-7db87b98d844)
 
 Accuracy Value
+
 ![image](https://github.com/23012647/Implementation-of-SVM-For-Spam-Mail-Detection/assets/160568857/cc2ca4e7-26ae-4bb0-b52e-fb3a143118fa)
 
 
